@@ -1,6 +1,10 @@
-# 🌸 Bienvenido a mi perfil! 🌸
+<div align="center">
+  <h1>🌸 Bienvenido a mi perfil! 🌸</h1>
+</div>
 
-Mi nombre es Melanie Peña, estudiante de Ingeniería Civil Eléctrica y como podrás notar, me gusta mucho el rosado 💖 A continuación, algunos datos sobre mí:
+
+Mi nombre es Melanie Peña, estudiante de Ingeniería Civil Eléctrica y como podrás notar, me gusta mucho el rosado °❀⋆.ೃ࿔*:･
+A continuación, algunos datos sobre mí que podrían interesar:
 
 <div align="center">
   <img src="https://github.com/melaniejalea/melaniejalea/blob/main/kaguya.gif" alt="Kaguya GIF">
@@ -25,4 +29,6 @@ Me puedes encontrar en:
 
 ¡No dudes en contactarme para colaboraciones o trabajos en conjunto! 💖
 
-![](https://github.com/melaniejalea/melaniejalea/blob/main/kirby.gif)
+<div align="center">
+  <img src="https://github.com/melaniejalea/melaniejalea/blob/main/kirby.gif" alt="Kirby GIF">
+</div>
