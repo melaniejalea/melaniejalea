@@ -3,8 +3,8 @@
 </div>
 
 
-Mi nombre es Melanie Peña, estudiante de Ingeniería Civil Eléctrica y como podrás notar, me gusta mucho el rosado °❀⋆.ೃ࿔*:･
-A continuación, algunos datos sobre mí que podrían interesar:
+Mi nombre es Melanie Peña, estudiante de Ingeniería Civil Eléctrica y como podrás notar, me gusta mucho el rosado 🍧🌸💕.
+Este es mi GitHub con proyectos personales, si alguno es de tu interés no dudes en preguntar!
 
 <div align="center">
   <img src="https://github.com/melaniejalea/melaniejalea/blob/main/kaguya.gif" alt="Kaguya GIF">
@@ -13,7 +13,7 @@ A continuación, algunos datos sobre mí que podrían interesar:
 
 ## Sobre mí
 
-🎀 Soy actualmente estudiante de 6° año de la carrera "Ingeniería Civil Eléctrica" con mención en "Inteligencia Copmutacional" de la Universidad de Chile.
+🎀 Soy actualmente estudiante de 6° año de la carrera "Ingeniería Civil Eléctrica" con mención en "Inteligencia Computacional" de la Universidad de Chile.
 
 💌 Me interesan mucho los campos de Machine Learning, Inteligencia Artificial y Electrónica. Me encanta involucrarme en proyectos que me permitan explorar y profundizar mis conocimientos en estas áreas. 
 
