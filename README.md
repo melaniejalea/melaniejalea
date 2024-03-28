@@ -2,6 +2,11 @@
 
 Mi nombre es Melanie Peña, estudiante de Ingeniería Civil Eléctrica y como podrás notar, me gusta mucho el rosado 💖 A continuación, algunos datos sobre mí:
 
+<div align="center">
+  <img src="https://github.com/melaniejalea/melaniejalea/blob/main/kaguya.gif" alt="Kaguya GIF">
+</div>
+
+
 ## Sobre mí
 
 🎀 Soy actualmente estudiante de 6° año de la carrera "Ingeniería Civil Eléctrica" con mención en "Inteligencia Copmutacional" de la Universidad de Chile.
