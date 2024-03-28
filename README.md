@@ -4,7 +4,7 @@ Mi nombre es Melanie Peña, estudiante de Ingeniería Civil Eléctrica y como po
 
 ## Sobre mí
 
-🎀 Soy actualmente estudiante de 6° año de la carrera "Ingeniería Civil Eléctrica" con mención en "Inteligencia Copmutacional" de la Universidad de Chile
+🎀 Soy actualmente estudiante de 6° año de la carrera "Ingeniería Civil Eléctrica" con mención en "Inteligencia Copmutacional" de la Universidad de Chile.
 
 💌 Me interesan mucho los campos de Machine Learning, Inteligencia Artificial y Electrónica. Me encanta involucrarme en proyectos que me permitan explorar y profundizar mis conocimientos en estas áreas. 
 
@@ -15,9 +15,9 @@ Mi nombre es Melanie Peña, estudiante de Ingeniería Civil Eléctrica y como po
 
 Me puedes encontrar en:
 
-💼 [LinkedIn](https://linkedin.com/in/yourusername)
+💼 [LinkedIn](https://linkedin.com/in/mgpt-contacto)
 
 
 ¡No dudes en contactarme para colaboraciones o trabajos en conjunto! 💖
 
--->
+![](https://github.com/melaniejalea/melaniejalea/blob/main/kirby.gif)
