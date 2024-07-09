@@ -13,7 +13,7 @@ Este es mi GitHub con proyectos personales, si alguno es de tu interés no dudes
 
 ## Sobre mí
 
-🎀 Poseo actualmente el grado de Licenciada en Ingeniería Civil Eléctrica y sigo estudiando para poder obtener el grado de Ingeniería!
+🎀 Poseo actualmente el grado de Licenciada en Ingeniería Civil Eléctrica y sigo estudiando para poder obtener el grado de Ingeniera en esta carrera!
 
 💌 Me interesan mucho los campos de Machine Learning, Inteligencia Artificial y Electrónica. Me encanta involucrarme en proyectos que me permitan explorar y profundizar mis conocimientos en estas áreas. 
 
