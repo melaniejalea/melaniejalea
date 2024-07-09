@@ -3,7 +3,7 @@
 </div>
 
 
-Mi nombre es Melanie Peña, estudiante de Ingeniería Civil Eléctrica y como podrás notar, me gusta mucho el rosado 🍧🌸💕.
+Mi nombre es Melanie Peña, Licenciada y estudiante de Ingeniería Civil Eléctrica y como podrás notar, me gusta mucho el rosado 🍧🌸💕.
 Este es mi GitHub con proyectos personales, si alguno es de tu interés no dudes en preguntar!
 
 <div align="center">
@@ -13,7 +13,7 @@ Este es mi GitHub con proyectos personales, si alguno es de tu interés no dudes
 
 ## Sobre mí
 
-🎀 Soy actualmente estudiante de 6° año de la carrera "Ingeniería Civil Eléctrica" con mención en "Inteligencia Computacional" de la Universidad de Chile.
+🎀 Soy actualmente estudiante de 6° año de la carrera "Ingeniería Civil Eléctrica" con mención en "Inteligencia Computacional" de la Universidad de Chile. Poseo el grado de Licenciada en esta carrera!
 
 💌 Me interesan mucho los campos de Machine Learning, Inteligencia Artificial y Electrónica. Me encanta involucrarme en proyectos que me permitan explorar y profundizar mis conocimientos en estas áreas. 
 
