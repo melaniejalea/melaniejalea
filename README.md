@@ -71,7 +71,8 @@ Si alguno te interesa, no dudes en escribirme!
 
 ## ✨ Contador de visitas
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=melaniejalea&label=✨%20Visitas%20al%20perfil%20✨&color=ff69b4&style=flat-square)
+![3D Contributions](./profile-3d-contrib/profile-night-pink.svg)
+
 
 ---
 
