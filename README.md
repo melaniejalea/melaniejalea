@@ -63,16 +63,9 @@ Si alguno te interesa, no dudes en escribirme!
 
 ---
 
-## 📊 GitHub Stats
-
-![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=melaniejalea&show_icons=true&theme=rose_pine)
-
----
-
 ## ✨ Contador de visitas
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)
-
+![Open to Work](https://img.shields.io/badge/Open%20to%20collaborations-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)
 
 
 ---
@@ -85,8 +78,6 @@ Me puedes encontrar en:
 - 💼 [LinkedIn](https://linkedin.com/in/mgpt-contacto)
 
 
-¡No dudes en contactarme para colaboraciones o trabajos en conjunto! 💖
+¡No dudes en contactarme para colaboraciones o trabajos en conjunto! 
 
-<div align="center">
-  <img src="https://github.com/melaniejalea/melaniejalea/blob/main/kirby.gif" alt="Kirby GIF">
-</div>
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)
