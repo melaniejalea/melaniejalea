@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=FF69B4&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+⋆✴︎˚｡⋆)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=FF69B4&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+⋆✴︎)](https://git.io/typing-svg)
 
   ![Open to Work](https://img.shields.io/badge/Open%20to%20collaborations-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)
 
