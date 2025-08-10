@@ -69,6 +69,8 @@ Si alguno te interesa, no dudes en escribirme!
 ## ✨ Contador de visitas
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20collaborations-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)
+![snake gif](https://github.com/melaniejalea/melaniejalea/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
