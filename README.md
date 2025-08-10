@@ -71,7 +71,8 @@ Si alguno te interesa, no dudes en escribirme!
 
 ## ✨ Contador de visitas
 
-![3D Contributions](./profile-3d-contrib/profile-night-pink.svg)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)
+
 
 
 ---
