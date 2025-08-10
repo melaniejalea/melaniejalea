@@ -8,7 +8,7 @@
 
 ---
 
-Mi nombre es **Melanie Peña**, Licenciada en Ingeniería Civil Eléctrica y actualmente en mi 7° año de la carrera con mención en **Inteligencia Computacional** en la **Universidad de Chile**. En paralelo curso el **Magíster en Ciencias de Datos** dentro de la misma Universidad. Como probablemente ya notaste… me gusta mucho el rosado 🍧🌸💕.
+Mi nombre es **Melanie Peña**, Licenciada en Ingeniería Civil Eléctrica y actualmente en mi 7° año de la carrera con mención en **Inteligencia Computacional** en la **Universidad de Chile**. En paralelo curso el **Magíster en Ciencias de Datos** dentro de la misma Universidad.
 
 Este es mi GitHub con proyectos personales.  
 Si alguno te interesa, no dudes en escribirme!  
@@ -23,8 +23,8 @@ Si alguno te interesa, no dudes en escribirme!
 
 - 📚 **Formación**: Licenciada en Ingeniería Civil Eléctrica (Universidad de Chile), estudiante de Ingeniería con mención en Inteligencia Computacional y del Magíster en Ciencias de Datos.  
 - 🤖 Intereses principales: *Machine Learning*, *Deep Learning*, IA generativa y electrónica.  
-- 💌 Me apasiona explorar nuevas tecnologías y participar en proyectos que mezclen ciencia de datos, investigación y desarrollo.  
-- 🎮 Hobbies: música, videojuegos, podcasts, coleccionar peluches y jugar mucho (demasiado) Valorant.  
+- 💌 Me apasiona explorar nuevas tecnologías y participar en proyectos que mezclen Ciencia de Datos, Investigación y Desarrollo.  
+- 🎮 Hobbies: Música, videojuegos, podcasts, coleccionar peluches y jugar mucho (demasiado) Valorant.  
 - ✨ Siempre abierta a aprender cosas nuevas y embarcarme en aventuras.
 
 ---
@@ -75,7 +75,7 @@ Si alguno te interesa, no dudes en escribirme!
 ✉️ [Correo](mailto:melanie.pena@ug.uchile.cl)  
 💼 [LinkedIn](https://linkedin.com/in/mgpt-contacto)  
 
-¡No dudes en contactarme para colaboraciones o trabajos en conjunto!  
+No dudes en contactarme para colaboraciones o trabajos en conjunto!  
 
 <div align="center">
   
