@@ -1,19 +1,17 @@
 <div align="center">
   <h1>🌸 Bienvenido a mi perfil! 🌸</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Machine+Learning+is+my+jam;Lover+of+Sanrio+%26+Kirby)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
   ![Open to Work](https://img.shields.io/badge/Open%20to%20collaborations-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)
 </div>
 
 ---
 
-Mi nombre es **Melanie Peña**, Licenciada en Ingeniería Civil Eléctrica y actualmente en mi 7° año de la carrera con mención en **Inteligencia Computacional** en la **Universidad de Chile**.  
-En paralelo curso el **Magíster en Ciencias de Datos** dentro de la misma Universidad.  
-Como probablemente ya notaste… me gusta mucho el rosado 🍧🌸💕.
+Mi nombre es **Melanie Peña**, Licenciada en Ingeniería Civil Eléctrica y actualmente en mi 7° año de la carrera con mención en **Inteligencia Computacional** en la **Universidad de Chile**. En paralelo curso el **Magíster en Ciencias de Datos** dentro de la misma Universidad. Como probablemente ya notaste… me gusta mucho el rosado 🍧🌸💕.
 
 Este es mi GitHub con proyectos personales.  
-Si alguno te interesa, ¡no dudes en escribirme!  
+Si alguno te interesa, no dudes en escribirme!  
 
 <div align="center">
   <img src="https://github.com/melaniejalea/melaniejalea/blob/main/kaguya.gif" alt="Kaguya GIF">
@@ -32,7 +30,6 @@ Si alguno te interesa, ¡no dudes en escribirme!
 ---
 
 ## 🛠️ Tech Stack
-<div align="center">
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -70,18 +67,18 @@ Si alguno te interesa, ¡no dudes en escribirme!
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
 ---
 
 ## 📫 Conectemos!
-<div align="center">
+
 
 ✉️ [Correo](mailto:melanie.pena@ug.uchile.cl)  
 💼 [LinkedIn](https://linkedin.com/in/mgpt-contacto)  
 
 ¡No dudes en contactarme para colaboraciones o trabajos en conjunto!  
 
+<div align="center">
+  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)
 
 </div>
