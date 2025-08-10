@@ -14,7 +14,7 @@ Este es mi GitHub con proyectos personales.
 Si alguno te interesa, no dudes en escribirme!  
 
 <div align="center">
-  <img src="https://github.com/melaniejalea/melaniejalea/blob/main/kaguya.gif" alt="Kaguya GIF">
+  <img src="https://github.com/melaniejalea/melaniejalea/blob/main/ed.gif" alt="ED GIF">
 </div>
 
 ---
