@@ -2,9 +2,7 @@
   <h1>🌸 Bienvenido a mi perfil! 🌸</h1>
 </div>
 
-Mi nombre es **Melanie Peña**, Licenciada en Ingeniería Civil Eléctrica y actualmente en mi 7° año de la carrera con mención en **Inteligencia Computacional** en la **Universidad de Chile**.  
-En paralelo curso el **Magíster en Ciencias de Datos**.  
-Como probablemente ya notaste… me gusta mucho el rosado 🍧🌸💕.
+Mi nombre es **Melanie Peña**, Licenciada en Ingeniería Civil Eléctrica y actualmente en mi 7° año de la carrera con mención en **Inteligencia Computacional** en la **Universidad de Chile**. En paralelo curso el **Magíster en Ciencias de Datos** dentro de la misma Universidad. Como probablemente ya notaste… me gusta mucho el rosado 🍧🌸💕.
 
 Este es mi GitHub con proyectos personales.  
 Si alguno te interesa, no dudes en escribirme!  
@@ -65,12 +63,24 @@ Si alguno te interesa, no dudes en escribirme!
 
 ---
 
+## 📊 GitHub Stats
+
+![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=melaniejalea&show_icons=true&theme=rose_pine)
+
+---
+
+## ✨ Contador de visitas
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=melaniejalea&label=✨%20Visitas%20al%20perfil%20✨&color=ff69b4&style=flat-square)
+
+---
+
 ## 📫 Conectemos!
 
 Me puedes encontrar en:
 
-- ✉️ **Correo**: melanie.pena@gug.uchile.cl 
-- 💼 **LinkedIn**: [LinkedIn](https://linkedin.com/in/mgpt-contacto)
+- ✉️ [Correo](melanie.pena@ug.uchile.cl)
+- 💼 [LinkedIn](https://linkedin.com/in/mgpt-contacto)
 
 
 ¡No dudes en contactarme para colaboraciones o trabajos en conjunto! 💖
