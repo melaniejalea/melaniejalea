@@ -2,6 +2,10 @@
   <h1>🌸 Bienvenido a mi perfil! 🌸</h1>
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/jx17oHT.gif" alt="Welcome" width="400"/>
+</div>
+
 Mi nombre es **Melanie Peña**, Licenciada en Ingeniería Civil Eléctrica y actualmente en mi 7° año de la carrera con mención en **Inteligencia Computacional** en la **Universidad de Chile**. En paralelo curso el **Magíster en Ciencias de Datos** dentro de la misma Universidad. Como probablemente ya notaste… me gusta mucho el rosado 🍧🌸💕.
 
 Este es mi GitHub con proyectos personales.  
