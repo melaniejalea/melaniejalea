@@ -4,8 +4,8 @@
 
   ![Open to Work](https://img.shields.io/badge/Open%20to%20collaborations-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)
 
-  [![CV Español](https://img.shields.io/badge/Descargar%20CV%20Español-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](ruta/al/cv_espanol.pdf)
-  [![CV Inglés](https://img.shields.io/badge/Download%20CV%20English-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](ruta/al/cv_ingles.pdf)
+  [![CV Español](https://img.shields.io/badge/Descargar%20CV%20Español-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Melanie_Peña_CV_Español.pdf)
+  [![CV Inglés](https://img.shields.io/badge/Download%20CV%20English-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Melanie_Peña_CV_English.pdf)
 
 </div>
 
